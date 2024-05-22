@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lee EunSu</h1>
+<h1 align="center">Hi 👋, I'm Lee EunSu.</h1>
 <h3 align="center">IT 개발 지망생</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmstn12&label=Profile%20views&color=0e75b6&style=flat" alt="dmstn12" /> </p>
